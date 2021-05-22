@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# The site's link is below
+
+## Prerequisite to open the site on your browser
+
+ https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc --> Moesif Origin & CORS Changer
+ 
+ Download the above Chrome extension from the webstore link provided above, and turn it on after downloading.
+ 
+ ## job-availability-app link
+    
+  ###  ---> https://iamsohel7.github.io/jobs-available/
+  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
