@@ -1,0 +1,11 @@
+.pages{
+  display: flex; 
+  margin-bottom: 27px;
+  gap: 8px;
+}
+
+.clicked-btn{
+  background-color: blanchedalmond;
+}
+
+

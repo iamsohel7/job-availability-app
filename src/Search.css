@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.forms{
+    display: flex;
+    gap: 6px;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+}
+
+@media (max-width: 1027px) {
+    .formElements{
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        margin-bottom: 20px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 12px;
+    }
+}
